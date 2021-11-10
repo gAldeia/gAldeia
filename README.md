@@ -23,7 +23,10 @@ For now, I have published some papers about Symbolic Regression. You can find a 
 
 ### My github stats
 
+<!--
 ![gAldeia's github stats](https://github-readme-stats.vercel.app/api?username=gAldeia&show_icons=true&theme=merko)
+-->
+
 ![gAldeia's github activity](https://github-readme-streak-stats.herokuapp.com/?user=gAldeia&theme=tokyonight&hide_border=true)
 
 ### Languages
@@ -39,7 +42,7 @@ I've learned several languages throughout my academic life, some better than oth
 
 As for my GitHub repositories, there is some statistics about the languages I've used:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gAldeia&hide=jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gAldeia&layout=compact&hide=jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
 
 -----
 Last Edited on: 10/11/2021
