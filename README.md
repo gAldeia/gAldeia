@@ -18,6 +18,7 @@ For now, I have published some papers about Symbolic Regression. You can find a 
   * [A Parametric Study of Interaction-Transformation Evolutionary Algorithm for Symbolic Regression](https://ieeexplore.ieee.org/abstract/document/9185521) ([:open_file_folder: github repo](https://github.com/gAldeia/sensitivity-analysis-ITSR))
   * [Interaction–Transformation Evolutionary Algorithm for Symbolic Regression](https://direct.mit.edu/evco/article-abstract/29/3/367/97354/Interaction-Transformation-Evolutionary-Algorithm) ([:open_file_folder: github repo](https://github.com/gAldeia/experiments-ITEA-paper))
   * [Measuring feature importance of symbolic regression models using partial effects](https://dl.acm.org/doi/abs/10.1145/3449639.3459302) ([:open_file_folder: github repo](https://github.com/gAldeia/partial-effects-ITEA))
+  * [Interpretability in symbolic regression: a benchmark of explanatory methods using the Feynman data set](https://link.springer.com/article/10.1007/s10710-022-09435-x) ([:open_file_folder: github repo](https://github.com/gAldeia/iirsBenchmark))
   
 </details>
 
