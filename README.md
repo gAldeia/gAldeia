@@ -2,7 +2,7 @@
 
 ### About me
 
-I'm Guilherme, graduated in Computer Science and Neuroscience, and currently, a Master's student at Universidade Federal do ABC. Since 2015, I've been involved with symbolic regression and machine learning methods, mainly from a theoretical perspective. I am passionate about math, computer science, and biology --- and probably that's why symbolic regression intrigues me.
+I'm Guilherme, Bachelor in Computer Science and Neuroscience, and currently, a PhD student at Universidade Federal do ABC. Since 2015, I've been involved with symbolic regression and machine learning methods, mainly from a theoretical perspective. I am passionate about math, computer science, and biology --- and probably that's why symbolic regression intrigues me.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-aldeia-0a8a0b21b/)](https://www.linkedin.com/in/guilherme-aldeia-0a8a0b21b/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gAldeia)](https://github.com/gAldeia)
@@ -19,6 +19,7 @@ For now, I have published some papers about Symbolic Regression. You can find a 
   * [Interaction–Transformation Evolutionary Algorithm for Symbolic Regression](https://direct.mit.edu/evco/article-abstract/29/3/367/97354/Interaction-Transformation-Evolutionary-Algorithm) ([:open_file_folder: github repo](https://github.com/gAldeia/experiments-ITEA-paper))
   * [Measuring feature importance of symbolic regression models using partial effects](https://dl.acm.org/doi/abs/10.1145/3449639.3459302) ([:open_file_folder: github repo](https://github.com/gAldeia/partial-effects-ITEA))
   * [Interpretability in symbolic regression: a benchmark of explanatory methods using the Feynman data set](https://link.springer.com/article/10.1007/s10710-022-09435-x) ([:open_file_folder: github repo](https://github.com/gAldeia/iirsBenchmark))
+  * [Interaction-transformation evolutionary algorithm with coefficients optimization](https://dl.acm.org/doi/abs/10.1145/3520304.3533987) ([:open_file_folder: github repo](https://github.com/gAldeia/itea-julia))
   
 </details>
 
@@ -46,4 +47,4 @@ As for my GitHub repositories, there is some statistics about the languages I've
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gAldeia&layout=compact&hide=jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
 
 -----
-Last Edited on: 10/11/2021
+Last Edited on: 05/12/2022
