@@ -27,6 +27,7 @@ You can find a list of all my publications with available source code in my GitH
   * [Interpretability in symbolic regression: a benchmark of explanatory methods using the Feynman data set](https://link.springer.com/article/10.1007/s10710-022-09435-x) ([:open_file_folder: github repo](https://github.com/gAldeia/iirsBenchmark))
   * [Interaction-transformation evolutionary algorithm with coefficients optimization](https://dl.acm.org/doi/abs/10.1145/3520304.3533987) ([:open_file_folder: github repo](https://github.com/gAldeia/itea-julia))
   * [Inexact Simplification of Symbolic Regression Expressions with Locality-sensitive Hashing](https://arxiv.org/abs/2404.05898) ([:open_file_folder: github repo](https://github.com/gAldeia/hashing-symbolic-expressions))
+  * [Minimum variance threshold for 𝜖-lexicase selection](https://arxiv.org/abs/2404.05898) ([:open_file_folder: github implementation](https://github.com/gAldeia/feat) [:open_file_folder: github srbench experiments](https://github.com/gAldeia/srbench/tree/feat_split_benchmark))
 </details>
 
 ### My github stats
