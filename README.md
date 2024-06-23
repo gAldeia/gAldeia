@@ -12,7 +12,8 @@ He is currently interested in evolutionary computing, interpretability in machin
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-aldeia-0a8a0b21b/)](https://www.linkedin.com/in/guilherme-aldeia-0a8a0b21b/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gAldeia)](https://github.com/gAldeia)
- 
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=TQuYJTcAAAAJ&hl=en) 
+
 ### Publications
 
 You can find a list of all my publications with available source code in my GitHub below, ordered chronologically (**from first to last**).
