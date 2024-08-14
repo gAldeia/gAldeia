@@ -27,8 +27,8 @@ You can find a list of all my publications with available source code in my GitH
   * [Measuring feature importance of symbolic regression models using partial effects](https://dl.acm.org/doi/abs/10.1145/3449639.3459302) ([:open_file_folder: github repo](https://github.com/gAldeia/partial-effects-ITEA))
   * [Interpretability in symbolic regression: a benchmark of explanatory methods using the Feynman data set](https://link.springer.com/article/10.1007/s10710-022-09435-x) ([:open_file_folder: github repo](https://github.com/gAldeia/iirsBenchmark))
   * [Interaction-transformation evolutionary algorithm with coefficients optimization](https://dl.acm.org/doi/abs/10.1145/3520304.3533987) ([:open_file_folder: github repo](https://github.com/gAldeia/itea-julia))
-  * [Inexact Simplification of Symbolic Regression Expressions with Locality-sensitive Hashing](https://arxiv.org/abs/2404.05898) ([:open_file_folder: github repo](https://github.com/gAldeia/hashing-symbolic-expressions))
-  * [Minimum variance threshold for 𝜖-lexicase selection](https://arxiv.org/abs/2404.05898) ([:open_file_folder: github implementation](https://github.com/gAldeia/feat) [:open_file_folder: github srbench experiments](https://github.com/gAldeia/srbench/tree/feat_split_benchmark))
+  * [Inexact Simplification of Symbolic Regression Expressions with Locality-sensitive Hashing](https://dl.acm.org/doi/10.1145/3638529.3654147) ([:open_file_folder: github repo](https://github.com/gAldeia/hashing-symbolic-expressions) [:page_with_curl: arXiv](https://arxiv.org/abs/2404.05898))
+  * [Minimum variance threshold for 𝜖-lexicase selection](https://dl.acm.org/doi/10.1145/3638529.3654149) ([:open_file_folder: github implementation](https://github.com/gAldeia/feat) [:open_file_folder: github srbench experiments](https://github.com/gAldeia/srbench/tree/feat_split_benchmark) [:page_with_curl: arXiv](https://arxiv.org/abs/2404.05909v1))
 </details>
 
 ### My github stats
