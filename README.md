@@ -2,13 +2,11 @@
 
 ### About me
 
-Guilherme graduated with a Bachelor's degree in Science and Technology in 2019, a Bachelor's degree in Computer Science in 2020, and a Bachelor's degree in Neuroscience in 2023, all graduations from the [Federal University of ABC (UFABC)](https://www.ufabc.edu.br/en/), Santo Andre, Brazil.
+I earned my PhD in Computer Science in November 2025 at the [Federal University of ABC (UFABC)](https://www.ufabc.edu.br/en/), in Santo André, Brazil. My research focuses on genetic programming and its applications in the health sciences, including symbolic regression, machine learning applied to fMRI data, and explainable artificial intelligence. More broadly, I am interested in evolutionary computation, interpretability in machine learning, and computational models of neural information processing.
 
-He entered the master's program in early 2020, also at UFABC, and obtained his master's degree in Computer Science in early 2022. He has been pursuing a doctoral degree since 2022, also at the same institution. In 2023, he was awarded a Doctorate Sandwich grant from [Coordination of Superior Level Staff Improvement (CAPES)—Brazil](https://www.gov.br/capes/pt-br) and went to Boston Children's Hospital/Harvard Medical School to join the [cavalab](https://cavalab.org/) for six months. 
+I hold Bachelor’s degrees in Science and Technology (2019), Computer Science (2020), and Neuroscience (2023). I completed my Master’s degree in Computer Science at UFABC in early 2022 and continued there for my PhD (2022–2025).
 
-Since 2017, he has studied evolutionary algorithms and symbolic regression, his area of greatest expertise. In 2020, he studied interpretability in machine learning, focusing on applying explanation methods in the context of symbolic regression. During his undergraduate studies, he also studied digital signal processing and sound source localization, the processing of functional magnetic resonance imaging images, and functional connectivity analysis through graph theory. 
-
-He is currently interested in evolutionary computing, interpretability in machine learning, optimization methods for symbolic regression, and computational models of neural information processing.
+In 2023, I was awarded a Doctorate Sandwich grant from [CAPES—Brazil](https://www.gov.br/capes/pt-br), which allowed me to spend six months as a visiting researcher at Boston Children’s Hospital / Harvard Medical School, working at the [cavalab](https://cavalab.org/).
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-aldeia-0a8a0b21b/)](https://www.linkedin.com/in/guilherme-aldeia-0a8a0b21b/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gAldeia)](https://github.com/gAldeia)
