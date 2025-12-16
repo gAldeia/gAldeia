@@ -14,7 +14,9 @@ In 2023, I was awarded a Doctorate Sandwich grant from [CAPES—Brazil](https://
 
 ### Publications
 
-You can find a list of all my publications with available source code in my GitHub below, ordered chronologically (**from first to last**).
+You can find a list of all publications where I am the first author and I host the source code in my GitHub below, ordered chronologically (**from first to last**).
+
+For a full list, check my [cv](https://galdeia.github.io/cv/).
 
 <details>
   <summary>My research</summary>
